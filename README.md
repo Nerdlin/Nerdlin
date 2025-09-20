@@ -44,11 +44,4 @@
 
 </div>
 
-<!-- Snake Animation -->
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/Nerdlin/Nerdlin/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![snake gif](https://raw.githubusercontent.com/Nerdlin/Nerdlin/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-</div>
 
