@@ -22,11 +22,12 @@
   <p>
     <strong>Illia Kovalenko</strong> — Full Stack Developer из <strong>Kazakhstan</strong>.<br/>
     Сейчас работаю в: <strong>EY Academy</strong>.<br/>
-    -📧 Email: [nerdlinnut@gmail.com](mailto:nerdlinnut@gmail.com)
-    -📱 Telegram: [@nerdlin](https://t.me/nerdlin)
-    -💼 LinkedIn: [Illia Kovalenko](https://www.linkedin.com/in/illia-kovalenko-a15172368/)
   </p>
-
+  <ul>
+    <li>📧 Email: <a href="mailto:nerdlinnut@gmail.com">nerdlinnut@gmail.com</a></li>
+    <li>📱 Telegram: <a href="https://t.me/nerdlin">@nerdlin</a></li>
+    <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/illia-kovalenko-a15172368/">Illia Kovalenko</a></li>
+  </ul>
 </div>
 
 </td>
