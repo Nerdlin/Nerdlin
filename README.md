@@ -27,25 +27,23 @@
 
 ### 💻 About Me
 
-```typescript
 const nerdlin = {
-  name: 'Illia Kovalenko',
-  role: 'Full Stack Developer',
-  location: 'Kazakhstan 🇰🇿',
-  currentProject: 'EY Academy',
-  email: 'nerdlinnut@gmail.com',
+name: 'Illia Kovalenko',
+role: 'Full Stack Developer',
+location: 'Kazakhstan 🇰🇿',
+currentProject: 'EY Academy',
+email: 'nerdlinnut@gmail.com',
 
-  code: ['JavaScript', 'TypeScript', 'Python', 'Java', 'C++'],
-  technologies: {
-    frontend: ['React', 'Next.js', 'TailwindCSS'],
-    backend: ['Node.js', 'Express', 'Django', 'FastAPI'],
-    databases: ['MongoDB', 'PostgreSQL', 'MySQL'],
-    tools: ['Docker', 'Git', 'VS Code', 'Linux'],
-  },
+code: ['JavaScript', 'TypeScript', 'Python', 'Java', 'C++'],
+technologies: {
+frontend: ['React', 'Next.js', 'TailwindCSS'],
+backend: ['Node.js', 'Express', 'Django', 'FastAPI'],
+databases: ['MongoDB', 'PostgreSQL', 'MySQL'],
+tools: ['Docker', 'Git', 'VS Code', 'Linux'],
+},
 
-  funFact: 'I love turning coffee into code ☕',
+funFact: 'I love turning coffee into code ☕',
 };
-```
 
 </td>
 <td width="50%" valign="top">
@@ -77,7 +75,7 @@ const nerdlin = {
       <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
     </td>
   </tr>
-  
+
   <tr>
     <td align="center">
       <h3>🎨 Frontend</h3>
@@ -91,7 +89,7 @@ const nerdlin = {
       <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     </td>
   </tr>
-  
+
   <tr>
     <td align="center">
       <h3>⚙️ Backend</h3>
@@ -103,7 +101,7 @@ const nerdlin = {
       <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
     </td>
   </tr>
-  
+
   <tr>
     <td align="center">
       <h3>🗄️ Databases</h3>
@@ -115,7 +113,7 @@ const nerdlin = {
       <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
     </td>
   </tr>
-  
+
   <tr>
     <td align="center">
       <h3>🔧 DevOps & Tools</h3>
@@ -181,7 +179,7 @@ const nerdlin = {
 <h2 align="center">🌐 Let's Connect</h2>
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/illia-kovalenko-a15172368/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nerdlinnut@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nerdlin)
@@ -206,3 +204,4 @@ const nerdlin = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
+
