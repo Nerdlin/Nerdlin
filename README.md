@@ -14,6 +14,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nerdlin&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views" />
   <a href="mailto:nerdlinnut@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://github.com/Nerdlin"><img src="https://img.shields.io/github/followers/nerdlin?label=Followers&style=flat-square&logo=github"/></a>
 </p>
 
 <br/>
