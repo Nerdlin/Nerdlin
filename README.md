@@ -35,45 +35,6 @@
     <a href="mailto:nerdlinnut@gmail.com">nerdlinnut@gmail.com</a>
   </p>
 
-  <p>
-    <strong>Я пишу на:</strong>
-    <kbd>JavaScript</kbd>
-    <kbd>TypeScript</kbd>
-    <kbd>Python</kbd>
-    <kbd>Java</kbd>
-    <kbd>C++</kbd>
-  </p>
-
-  <p>
-    <strong>Frontend:</strong>
-    <kbd>React</kbd>
-    <kbd>Next.js</kbd>
-    <kbd>TailwindCSS</kbd>
-    &nbsp; | &nbsp;
-    <strong>Backend:</strong>
-    <kbd>Node.js</kbd>
-    <kbd>Express</kbd>
-    <kbd>Django</kbd>
-    <kbd>FastAPI</kbd>
-  </p>
-
-  <p>
-    <strong>Databases:</strong>
-    <kbd>MongoDB</kbd>
-    <kbd>PostgreSQL</kbd>
-    <kbd>MySQL</kbd>
-    &nbsp; | &nbsp;
-    <strong>Tools:</strong>
-    <kbd>Docker</kbd>
-    <kbd>Git</kbd>
-    <kbd>VS Code</kbd>
-    <kbd>Linux</kbd>
-  </p>
-
-  <blockquote>
-    I love turning coffee into code ☕
-  </blockquote>
-
 </div>
 
 </td>
