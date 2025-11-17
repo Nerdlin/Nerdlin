@@ -27,25 +27,7 @@
 
 <h2>💻 About Me</h2>
 
-<pre><code class="language-typescript">
-const nerdlin = {
-  name: 'Illia Kovalenko',
-  role: 'Full Stack Developer',
-  location: 'Kazakhstan 🇰🇿',
-  currentProject: 'EY Academy',
-  email: 'nerdlinnut@gmail.com',
-
-  code: ['JavaScript', 'TypeScript', 'Python', 'Java', 'C++'],
-  technologies: {
-    frontend: ['React', 'Next.js', 'TailwindCSS'],
-    backend: ['Node.js', 'Express', 'Django', 'FastAPI'],
-    databases: ['MongoDB', 'PostgreSQL', 'MySQL'],
-    tools: ['Docker', 'Git', 'VS Code', 'Linux'],
-  },
-
-  funFact: 'I love turning coffee into code ☕',
-};
-</code></pre>
+<img src="./assets/about-code.svg" alt="About me code card" width="100%"/>
 
 </td>
 <td width="50%" valign="top">
