@@ -24,6 +24,7 @@
     Сейчас работаю в: <strong>EY Academy</strong>.<br/>
     -📧 Email: [nerdlinnut@gmail.com](mailto:nerdlinnut@gmail.com)
     -📱 Telegram: [@nerdlin](https://t.me/nerdlin)
+    -💼 LinkedIn: [Illia Kovalenko](https://www.linkedin.com/in/illia-kovalenko-a15172368/)
   </p>
 
 </div>
@@ -68,7 +69,7 @@
       <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TailwindCSS-%3338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
       <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     </td>
   </tr>
@@ -113,19 +114,6 @@
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Social connections -->
-<h2 align="center">🌐 Let's Connect</h2>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/illia-kovalenko-a15172368/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nerdlinnut@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nerdlin)
-
-</div>
-
-<br/>
 
 <!-- Snake Animation -->
 <div align="center">
