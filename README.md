@@ -22,7 +22,7 @@
   <p>
     <strong>Illia Kovalenko</strong> — Full Stack Developer из <strong>Kazakhstan</strong>.<br/>
     Сейчас работаю в: <strong>EY Academy</strong>.<br/>
-    <a href="mailto:nerdlinnut@gmail.com">nerdlinnut@gmail.com</a>
+    <a href="mailto:nerdlinnut@gmail.com"> 📧 Email: nerdlinnut@gmail.com</a>
   </p>
 
 </div>
