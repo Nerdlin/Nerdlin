@@ -25,7 +25,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### About Me
+### 💻 About Me
 
 ```typescript
 const nerdlin = {
