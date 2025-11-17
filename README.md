@@ -25,9 +25,9 @@
 <tr>
 <td width="50%" valign="top">
 
-## 💻 About Me
+<h2>💻 About Me</h2>
 
-```typescript
+<pre><code class="language-typescript">
 const nerdlin = {
   name: 'Illia Kovalenko',
   role: 'Full Stack Developer',
@@ -45,6 +45,7 @@ const nerdlin = {
 
   funFact: 'I love turning coffee into code ☕',
 };
+</code></pre>
 
 </td>
 <td width="50%" valign="top">
@@ -205,4 +206,3 @@ const nerdlin = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
-```
