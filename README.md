@@ -27,7 +27,58 @@
 
 <h2>💻 About Me</h2>
 
-<pre><code class="language-typescript">
+<!-- New compact card-style profile -->
+<div>
+  <p>
+    <strong>Illia Kovalenko</strong> — Full Stack Developer из <strong>Kazakhstan 🇰🇿</strong>.<br/>
+    Сейчас работаю над: <strong>EY Academy</strong>.<br/>
+    <a href="mailto:nerdlinnut@gmail.com">nerdlinnut@gmail.com</a>
+  </p>
+
+  <p>
+    <strong>Я пишу на:</strong>
+    <kbd>JavaScript</kbd>
+    <kbd>TypeScript</kbd>
+    <kbd>Python</kbd>
+    <kbd>Java</kbd>
+    <kbd>C++</kbd>
+  </p>
+
+  <p>
+    <strong>Frontend:</strong>
+    <kbd>React</kbd>
+    <kbd>Next.js</kbd>
+    <kbd>TailwindCSS</kbd>
+    &nbsp; | &nbsp;
+    <strong>Backend:</strong>
+    <kbd>Node.js</kbd>
+    <kbd>Express</kbd>
+    <kbd>Django</kbd>
+    <kbd>FastAPI</kbd>
+  </p>
+
+  <p>
+    <strong>Databases:</strong>
+    <kbd>MongoDB</kbd>
+    <kbd>PostgreSQL</kbd>
+    <kbd>MySQL</kbd>
+    &nbsp; | &nbsp;
+    <strong>Tools:</strong>
+    <kbd>Docker</kbd>
+    <kbd>Git</kbd>
+    <kbd>VS Code</kbd>
+    <kbd>Linux</kbd>
+  </p>
+
+  <blockquote>
+    I love turning coffee into code ☕
+  </blockquote>
+
+  <!-- Optional: keep the original object as collapsible details -->
+  <details>
+    <summary>Показать объект nerdlin (исходный формат)</summary>
+    
+```ts
 const nerdlin = {
   name: 'Illia Kovalenko',
   role: 'Full Stack Developer',
@@ -35,17 +86,20 @@ const nerdlin = {
   currentProject: 'EY Academy',
   email: 'nerdlinnut@gmail.com',
 
-  code: ['JavaScript', 'TypeScript', 'Python', 'Java', 'C++'],
-  technologies: {
-    frontend: ['React', 'Next.js', 'TailwindCSS'],
-    backend: ['Node.js', 'Express', 'Django', 'FastAPI'],
-    databases: ['MongoDB', 'PostgreSQL', 'MySQL'],
-    tools: ['Docker', 'Git', 'VS Code', 'Linux'],
-  },
+code: ['JavaScript', 'TypeScript', 'Python', 'Java', 'C++'],
+technologies: {
+frontend: ['React', 'Next.js', 'TailwindCSS'],
+backend: ['Node.js', 'Express', 'Django', 'FastAPI'],
+databases: ['MongoDB', 'PostgreSQL', 'MySQL'],
+tools: ['Docker', 'Git', 'VS Code', 'Linux'],
+},
 
-  funFact: 'I love turning coffee into code ☕',
+funFact: 'I love turning coffee into code ☕',
 };
-</code></pre>
+
+```
+  </details>
+</div>
 
 </td>
 <td width="50%" valign="top">
@@ -206,3 +260,4 @@ const nerdlin = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
+```
