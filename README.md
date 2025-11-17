@@ -25,24 +25,25 @@
 <tr>
 <td width="50%" valign="top">
 
-### 💻 About Me
+## 💻 About Me
 
+```typescript
 const nerdlin = {
-name: 'Illia Kovalenko',
-role: 'Full Stack Developer',
-location: 'Kazakhstan 🇰🇿',
-currentProject: 'EY Academy',
-email: 'nerdlinnut@gmail.com',
+  name: 'Illia Kovalenko',
+  role: 'Full Stack Developer',
+  location: 'Kazakhstan 🇰🇿',
+  currentProject: 'EY Academy',
+  email: 'nerdlinnut@gmail.com',
 
-code: ['JavaScript', 'TypeScript', 'Python', 'Java', 'C++'],
-technologies: {
-frontend: ['React', 'Next.js', 'TailwindCSS'],
-backend: ['Node.js', 'Express', 'Django', 'FastAPI'],
-databases: ['MongoDB', 'PostgreSQL', 'MySQL'],
-tools: ['Docker', 'Git', 'VS Code', 'Linux'],
-},
+  code: ['JavaScript', 'TypeScript', 'Python', 'Java', 'C++'],
+  technologies: {
+    frontend: ['React', 'Next.js', 'TailwindCSS'],
+    backend: ['Node.js', 'Express', 'Django', 'FastAPI'],
+    databases: ['MongoDB', 'PostgreSQL', 'MySQL'],
+    tools: ['Docker', 'Git', 'VS Code', 'Linux'],
+  },
 
-funFact: 'I love turning coffee into code ☕',
+  funFact: 'I love turning coffee into code ☕',
 };
 
 </td>
@@ -204,4 +205,4 @@ funFact: 'I love turning coffee into code ☕',
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
-
+```
