@@ -22,8 +22,8 @@
   <p>
     <strong>Illia Kovalenko</strong> — Full Stack Developer из <strong>Kazakhstan</strong>.<br/>
     Сейчас работаю в: <strong>EY Academy</strong>.<br/>
-    - 📧 Email: [nerdlinnut@gmail.com](mailto:nerdlinnut@gmail.com)
-    - 📱 Telegram: [@nerdlin](https://t.me/nerdlin)
+    📧 Email: [nerdlinnut@gmail.com](mailto:nerdlinnut@gmail.com)
+    📱 Telegram: [@nerdlin](https://t.me/nerdlin)
   </p>
 
 </div>
