@@ -24,6 +24,7 @@
     Сейчас работаю в: <strong>EY Academy of Business</strong>.<br/>
   </p>
   <ul>
+    <li>🏢 Workplace: <a href="https://eyacademycca.com/">EY Academy of Business</a></li>
     <li>📧 Email: <a href="mailto:nerdlinnut@gmail.com">nerdlinnut@gmail.com</a></li>
     <li>📱 Telegram: <a href="https://t.me/nerdlin">@nerdlin</a></li>
     <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/illia-kovalenko-a15172368/">Illia Kovalenko</a></li>
