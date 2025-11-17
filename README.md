@@ -10,14 +10,6 @@
 
 <br/>
 
-<!-- Profile Views & Social -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nerdlin&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views" />
-  <a href="https://github.com/Nerdlin"><img src="https://img.shields.io/github/followers/nerdlin?label=Followers&style=flat-square&logo=github"/></a>
-</p>
-
-<br/>
-
 <!-- About Me Section -->
 <table align="center">
 <tr>
