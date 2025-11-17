@@ -74,31 +74,6 @@
     I love turning coffee into code ☕
   </blockquote>
 
-  <!-- Optional: keep the original object as collapsible details -->
-  <details>
-    <summary>Показать объект nerdlin (исходный формат)</summary>
-    
-```ts
-const nerdlin = {
-  name: 'Illia Kovalenko',
-  role: 'Full Stack Developer',
-  location: 'Kazakhstan 🇰🇿',
-  currentProject: 'EY Academy',
-  email: 'nerdlinnut@gmail.com',
-
-code: ['JavaScript', 'TypeScript', 'Python', 'Java', 'C++'],
-technologies: {
-frontend: ['React', 'Next.js', 'TailwindCSS'],
-backend: ['Node.js', 'Express', 'Django', 'FastAPI'],
-databases: ['MongoDB', 'PostgreSQL', 'MySQL'],
-tools: ['Docker', 'Git', 'VS Code', 'Linux'],
-},
-
-funFact: 'I love turning coffee into code ☕',
-};
-
-```
-  </details>
 </div>
 
 </td>
