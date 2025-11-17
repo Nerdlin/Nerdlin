@@ -11,14 +11,37 @@
 <br/>
 
 <!-- Profile Views & Social -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nerdlin&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/illia-kovalenko-a15172368/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:nerdlinnut@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://github.com/Nerdlin"><img src="https://img.shields.io/github/followers/nerdlin?label=Followers&style=flat-square&logo=github"/></a>
+</p>
 
+<br/>
+
+<!-- About Me Section -->
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+<h2>💻 About Me</h2>
+
+<!-- New compact card-style profile -->
+<div>
+  <p>
+    <strong>Illia Kovalenko</strong> — Full Stack Developer из <strong>Kazakhstan</strong>.<br/>
+    Сейчас работаю в: <strong>EY Academy</strong>.<br/>
+    <a href="mailto:nerdlinnut@gmail.com">nerdlinnut@gmail.com</a>
+  </p>
+
+  <p>
     <strong>Я пишу на:</strong>
     <kbd>JavaScript</kbd>
     <kbd>TypeScript</kbd>
     <kbd>Python</kbd>
     <kbd>Java</kbd>
     <kbd>C++</kbd>
-
   </p>
 
   <p>
