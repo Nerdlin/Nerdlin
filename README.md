@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nerdlin&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 </div>
 
-<!-- Typing SVG -->
+<!-- Typing SVG (mobile-friendly) -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Illia+Kovalenko+(Nerdlin);Digital+Marketing+Specialist+with+Data+%26+Automation;Building+data-driven+and+AI-powered+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=1600&color=A177F7&center=true&vCenter=true&width=720&lines=Hi+%F0%9F%91%8B+I'm+Illia+(Nerdlin);Digital+Marketing+%7C+Data+%26+Automation;Building+data-driven+tools" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -17,10 +17,11 @@
 
 <h2>💻 About Me</h2>
 
+<!-- Compact & mobile-friendly text -->
 <div>
   <p>
-    <strong>Illia Kovalenko</strong> — Digital Marketing Specialist with a strong <strong>Full-stack & Data</strong> background.<br/>
-    Currently working at <strong>EY Academy of Business CCA</strong>, focusing on marketing analytics, automation, and data-driven solutions.<br/>
+    <strong>Illia Kovalenko</strong> — Digital Marketing Specialist with <strong>Full-stack & Data</strong> background.<br/>
+    At <strong>EY Academy of Business CCA</strong>: analytics, automation, data-driven solutions.<br/>
   </p>
   <ul>
     <li>🏢 Workplace: <a href="https://eyacademycca.com/">EY Academy of Business CCA</a></li>
@@ -123,7 +124,7 @@
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=A177F7&center=true&vCenter=true&width=440&lines=Thanks+for+visiting!+%F0%9F%98%8A;Feel+free+to+reach+out!+%F0%9F%92%AC;Let's+build+data-driven+solutions+together!+%F0%9F%9A%80" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=A177F7&center=true&vCenter=true&width=520&lines=Thanks+for+visiting!+%F0%9F%98%8A;Feel+free+to+reach+out!+%F0%9F%92%AC;Let's+build+data-driven+solutions!+%F0%9F%9A%80" alt="Footer Typing SVG" />
 </div>
 
 <br/>
