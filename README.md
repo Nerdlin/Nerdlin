@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Illia+Kovalenko+(Nerdlin);Full+Stack+Developer+from+Kazakhstan;Passionate+about+building+amazing+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Illia+Kovalenko+(Nerdlin);Digital+Marketing+Specialist+with+Data+%26+Automation+background;Building+data-driven+and+AI-powered+solutions" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -17,14 +17,13 @@
 
 <h2>💻 About Me</h2>
 
-<!-- New compact card-style profile -->
 <div>
   <p>
-    <strong>Illia Kovalenko</strong> — Full Stack Developer из <strong>Kazakhstan</strong>.<br/>
-    Сейчас работаю в: <strong>EY Academy of Business</strong>.<br/>
+    <strong>Illia Kovalenko</strong> — Digital Marketing Specialist with a strong <strong>Full-stack & Data</strong> background.<br/>
+    Currently working at <strong>EY Academy of Business CCA</strong>, focusing on marketing analytics, automation, and data-driven solutions.<br/>
   </p>
   <ul>
-    <li>🏢 Workplace: <a href="https://eyacademycca.com/">EY Academy of Business</a></li>
+    <li>🏢 Workplace: <a href="https://eyacademycca.com/">EY Academy of Business CCA</a></li>
     <li>📧 Email: <a href="mailto:nerdlinnut@gmail.com">nerdlinnut@gmail.com</a></li>
     <li>📱 Telegram: <a href="https://t.me/nerdlin">@nerdlin</a></li>
     <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/illia-kovalenko-a15172368/">Illia Kovalenko</a></li>
@@ -78,7 +77,7 @@
 
   <tr>
     <td align="center">
-      <h3>⚙️ Backend</h3>
+      <h3>⚙️ Backend & Automation</h3>
     </td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -124,7 +123,7 @@
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=A177F7&center=true&vCenter=true&width=440&lines=Thanks+for+visiting!+%F0%9F%98%8A;Feel+free+to+reach+out!+%F0%9F%92%AC;Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=A177F7&center=true&vCenter=true&width=440&lines=Thanks+for+visiting!+%F0%9F%98%8A;Feel+free+to+reach+out!+%F0%9F%92%AC;Let's+build+data-driven+solutions+together!+%F0%9F%9A%80" alt="Footer Typing SVG" />
 </div>
 
 <br/>
