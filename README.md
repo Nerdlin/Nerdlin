@@ -21,7 +21,7 @@
 <div>
   <p>
     <strong>Illia Kovalenko</strong> — Digital Marketing Specialist with <strong>Full-stack & Data</strong> background.<br/>
-    At <strong>EY Academy of Business CCA</strong>: analytics, automation, data-driven solutions.<br/>
+    At <strong>EY Academy of Business Eurasia Business Unit</strong>: analytics, automation, data-driven solutions.<br/>
   </p>
   <ul>
     <li>🏢 Workplace: <a href="https://eyacademycca.com/">EY Academy of Business CCA</a></li>
