@@ -24,7 +24,7 @@
     At <strong>EY Academy of Business Eurasia Business Unit</strong>: analytics, automation, data-driven solutions.<br/>
   </p>
   <ul>
-    <li>🏢 Workplace: <a href="https://eyacademycca.com/">EY Academy of Business CCA</a></li>
+    <li>🏢 Workplace: <a href="https://eyacademycca.com/">EY Academy of Business Eurasia Business Unit</a></li>
     <li>📧 Email: <a href="mailto:nerdlinn@gmail.com">nerdlinnut@gmail.com</a></li>
     <li>📱 Telegram: <a href="https://t.me/nerdlin">@nerdlin</a></li>
     <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/illia-kovalenko-a15172368/">Illia Kovalenko</a></li>
