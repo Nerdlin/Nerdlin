@@ -5,9 +5,9 @@
 <br/>
 
 [![Telegram](https://img.shields.io/badge/TELEGRAM-@nerdlin-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nerdlin)
-[![Gmail](https://img.shields.io/badge/GMAIL-nerdlinnut-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nerdlinnut@gmail.com)
+[![Gmail](https://img.shields.io/badge/GMAIL-Nerdlin-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nerdlinnut@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Illia_Kovalenko-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/illia-kovalenko-a15172368/)
-[![EY Academy](https://img.shields.io/badge/EY_ACADEMY-Eurasia-FFE600?style=for-the-badge&logoColor=black)](https://eyacademycca.com/)
+[![EY Academy](https://img.shields.io/badge/EY_ACADEMY-Eurasia-FFE600?style=for-the-badge&logoColor=black)](https://eyacademyeurasia.com/)
 
 </div>
 
@@ -15,20 +15,11 @@
 
 I sit between **marketing** and **engineering**. At EY Academy of Business I work with campaigns, leads and analytics — and instead of exporting another spreadsheet, I write the script, bot or dashboard that does it for me.
 
-- **Marketing:** analytics, reporting, lead funnels, event activation
-- **Data:** Python, ML scoring, Explainable AI, Streamlit dashboards
-- **Product:** React / Next.js / TypeScript, Django & FastAPI backends
-- **Automation:** Telegram & Discord bots, GPT assistants, CRM workflows
+<img src="assets/about.svg" width="100%" alt="Marketing, Data, Product, Automation"/>
 
 ## How I work
 
-<div align="center">
-
-| 1 · Acquire | 2 · Measure | 3 · Automate | 4 · Decide |
-| :---: | :---: | :---: | :---: |
-| Campaigns, events, landing pages | Funnels, cohorts, attribution | Bots, CRM flows, reminders | Scoring, dashboards, XAI |
-
-</div>
+<img src="assets/flow.svg" width="100%" alt="Acquire, Measure, Automate, Decide"/>
 
 ## Projects
 
@@ -67,3 +58,5 @@ I sit between **marketing** and **engineering**. At EY Academy of Business I wor
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
 
 </div>
+
+<img src="assets/footer.svg" width="100%" height="90" alt=""/>
