@@ -1,56 +1,69 @@
-<h1 align="center">Hi 👋, I'm Illia Kovalenko</h1>
-<h3 align="center">Digital Marketing Specialist with a Full-stack &amp; Data background</h3>
+<div align="center">
 
-<table>
-<tr>
-<td valign="top" width="55%">
+<img src="assets/hero.svg" width="100%" alt="Illia Kovalenko — Marketing x Data x Automation"/>
 
-<img src="https://komarev.com/ghpvc/?username=Nerdlin&label=Profile%20views&color=0e75b6&style=flat" alt="Nerdlin" />
-<br/><br/>
-
-<a href="https://t.me/nerdlin"><img src="https://img.shields.io/badge/FOLLOW_@NERDLIN-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-
-- 🔭 I'm currently working at **EY Academy of Business Eurasia**
-- 🌱 I'm currently building **data-driven tools & automation**
-- 💬 Ask me about **Marketing Analytics**, **Python**, **React / Next.js**
-- 📫 How to reach me: [nerdlinnut@gmail.com](mailto:nerdlinnut@gmail.com)
-- ⚡ Fun fact: I turn boring spreadsheets into bots
-
-</td>
-<td valign="middle" width="45%">
-
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Coding"/>
-
-</td>
-</tr>
-</table>
-
-### Connect with me:
-
-<p align="left">
-<a href="https://t.me/nerdlin" target="blank"><img align="center" src="https://cdn.simpleicons.org/telegram/26A5E4" height="40" alt="telegram"/></a>
-<a href="https://www.linkedin.com/in/illia-kovalenko-a15172368/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin"/></a>
-<a href="https://github.com/Nerdlin" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" alt="github"/></a>
-<a href="mailto:nerdlinnut@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail"/></a>
-</p>
-
-### Languages and Tools:
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,c,dart,html,css,tailwind,bootstrap,react,nextjs&perline=13" alt="languages and frontend"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,postgres,mysql,mongodb,redis,docker,git,linux,vscode,postman&perline=13" alt="backend, databases, tools"/>
-</p>
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nerdlin&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Nerdlin&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="170"/>
-</p>
+[![Telegram](https://img.shields.io/badge/TELEGRAM-@nerdlin-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nerdlin)
+[![Gmail](https://img.shields.io/badge/GMAIL-nerdlinnut-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nerdlinnut@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Illia_Kovalenko-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/illia-kovalenko-a15172368/)
+[![EY Academy](https://img.shields.io/badge/EY_ACADEMY-Eurasia-FFE600?style=for-the-badge&logoColor=black)](https://eyacademycca.com/)
 
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nerdlin&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
+</div>
+
+## About
+
+I sit between **marketing** and **engineering**. At EY Academy of Business I work with campaigns, leads and analytics — and instead of exporting another spreadsheet, I write the script, bot or dashboard that does it for me.
+
+- **Marketing:** analytics, reporting, lead funnels, event activation
+- **Data:** Python, ML scoring, Explainable AI, Streamlit dashboards
+- **Product:** React / Next.js / TypeScript, Django & FastAPI backends
+- **Automation:** Telegram & Discord bots, GPT assistants, CRM workflows
+
+## How I work
 
 <div align="center">
+
+| 1 · Acquire | 2 · Measure | 3 · Automate | 4 · Decide |
+| :---: | :---: | :---: | :---: |
+| Campaigns, events, landing pages | Funnels, cohorts, attribution | Bots, CRM flows, reminders | Scoring, dashboards, XAI |
+
+</div>
+
+## Projects
+
+| Project | What it does | Stack |
+| :-- | :-- | :-- |
+| [**streamlit_air_quality_mvp**](https://github.com/Nerdlin/streamlit_air_quality_mvp) | Air-quality monitoring MVP for Kazakhstan: machine learning, Explainable AI, satellite data | ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| [**pet_project_earthquake**](https://github.com/Nerdlin/pet_project_earthquake) | End-to-end data-engineering pipeline (fork): USGS Earthquake API → MinIO → PostgreSQL → Metabase, orchestrated with Airflow | ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![Postgres](https://img.shields.io/badge/-Postgres-316192?style=flat-square&logo=postgresql&logoColor=white) |
+| [**AIO**](https://github.com/Nerdlin/AIO) | "All In One" platform joining APIs, messengers and ERP/CRM systems into one AI-driven flow | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| [**Campus_Hub**](https://github.com/Nerdlin/Campus_Hub) | Modern educational platform | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| [**Aria_to-do-list**](https://github.com/Nerdlin/Aria_to-do-list) | Productivity app with AI hints and statistics, soft neumorphic UI | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| [**blockerino**](https://github.com/Nerdlin/blockerino) | Pixel block puzzle: 8×8 classic, 10×10 chaos, 1v1 duels, mini-games, seasonal ratings | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+
+## Tech stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,c,dart&theme=dark" alt="Languages"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&theme=dark" alt="Frontend"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,postgres,mysql,mongodb,redis&theme=dark" alt="Backend and databases"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman&theme=dark" alt="Tools"/>
+
+</div>
+
+## GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nerdlin&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nerdlin&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+
+<br/><br/>
+
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+
 </div>
