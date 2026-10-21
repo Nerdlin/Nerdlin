@@ -28,7 +28,7 @@
 ### Connect with me:
 
 <p align="left">
-<a href="https://t.me/nerdlin" target="blank"><img align="center" src="https://skillicons.dev/icons?i=telegram" height="40" alt="telegram"/></a>
+<a href="https://t.me/nerdlin" target="blank"><img align="center" src="https://cdn.simpleicons.org/telegram/26A5E4" height="40" alt="telegram"/></a>
 <a href="https://www.linkedin.com/in/illia-kovalenko-a15172368/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin"/></a>
 <a href="https://github.com/Nerdlin" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" alt="github"/></a>
 <a href="mailto:nerdlinnut@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail"/></a>
